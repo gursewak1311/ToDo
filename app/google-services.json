@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "50810270698",
+    "firebase_url": "https://todoapp-c2a41-default-rtdb.firebaseio.com",
+    "project_id": "todoapp-c2a41",
+    "storage_bucket": "todoapp-c2a41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50810270698:android:7dd98b595ded0eac5b7893",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh2EMMKWu9rJtlHEP_Az4hYYJ6se27HN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
